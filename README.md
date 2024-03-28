@@ -5,12 +5,10 @@
 Table of Contents:
 - Simple Dog Years Calculator
     - Calculate your puppy or dog's age using the following parameters: The first two years of a dog’s life count as 21 human years. Each following year counts as 4 human years.
-     
-    How to use:
-
-    Open a terminal window such as Git Bash.
-    Navigate (using cd) to the directory where the dog_years.cpp file is stored.
-    Compile & execute the code with the commands: g++ dog_years.cpp, followed by: ./a.out
+    -  How to use:
+       1. Open a terminal window such as Git Bash.
+       2. Navigate (using cd) to the directory where the dog_years.cpp file is stored.
+       3. Compile & execute the code with the commands: g++ dog_years.cpp, followed by: ./a.out
 
     - Photos attached show a sample of the Simple Dog Years Calculator in the terminal, and the puppy tax for the sample dogs in this project
 
