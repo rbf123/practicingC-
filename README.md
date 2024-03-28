@@ -10,6 +10,7 @@ Table of Contents:
               2. Navigate (using cd) to the directory where the quadratic.cpp file is stored. <br>
               3. Compile & execute the code with the commands: g++ quadratic.cpp, followed by: ./a.out <br> 
               </ol>
+       - Sample photo attached show the calculator's output in the terminal when given inputs for variables a,b,c
          ![image](https://github.com/rbf123/practicingCplusplus/assets/108244092/e49050a3-cc8e-40d9-8dd1-e3297b5c46d8)
 
  2. Simple Dog Years Calculator
